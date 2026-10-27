@@ -1,0 +1,7 @@
+hackerrank_orchestrate/log.txt 
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+hackerrank_orchestrate/log.txt
